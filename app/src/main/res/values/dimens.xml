@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 橡皮擦弹框高度-->
+    <dimen name="pen_popup_upload_height">61dp</dimen>
+    <dimen name="eraser_popup_upload_height">147dp</dimen>
+    <dimen name="popup_text_height">66dp</dimen>
+    <dimen name="radio_group_bottom">25dp</dimen>
+    <dimen name="radio_group_bottom_width">23dp</dimen>
+    <dimen name="selector_color">36dp</dimen>
+    <dimen name="selector_color_left">35dp</dimen>
+    <dimen name="selector_color_size">40dp</dimen>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/eraserRadioGroup"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/eraser_popup_upload_height"
+    android:background="@color/transparent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+
+    <RadioButton
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/selector_paint_size5"
+        android:button="@null"
+        android:checked="false"
+        android:gravity="center" />
+
+    <RadioButton
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/selector_paint_size4"
+        android:button="@null"
+        android:checked="false" />
+
+    <RadioButton
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/selector_paint_size2"
+        android:button="@null"
+        android:checked="false" />
+
+</RadioGroup>

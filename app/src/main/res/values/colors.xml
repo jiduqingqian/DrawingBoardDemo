@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bright_orange">#ffff4800</color>
+    <color name="theme_orange">#FF8700</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff1c1e</color>
+    <color name="blue">#00B7E3</color>
+    <color name="gold">#FFD700</color>
+    <color name="black">#000000</color>
+    <color name="green">#B9D800</color>
+    <color name="progressbar_color">#ffcd93</color>
+    <color name="progressbar_bg">#89d2fd</color>
+
+    <color name="bright_black">#333333</color>
+    <color name="status_bar_bg">#ffb662</color>
+
+    <color name="menu_item_bg">#08111111</color>
+    <color name="consultant_item_font">#DCDCDC</color>
+
+    <color name="bbs_press_red">#ff8700</color>
+    <color name="bbs_press_blue">#0095cd</color>
+
+    <color name="textColor">#969696</color>
+    <color name="titleColor">#ffffff</color>
+    <color name="titleColorold">#fddeba</color>
+    <color name="textColorSmall">#b4b4b4</color>
+    <color name="common_background">#F5F5F5</color>
+
+    <!-- common -->
+    <color name="title_or_button_color">#FDDEBA</color>
+    <color name="tab_text_color">#FF8800</color>
+    <color name="normal_text_color">#787878</color>
+    <color name="grey_text_color">#969696</color>
+    <color name="line_bg">#DCDCDC</color>
+
+    <!-- mainUI -->
+    <color name="horizontal_line_color">#ff822C</color>
+
+    <!-- account activity -->
+    <color name="account_text_color">#d8cbf2</color>
+    <color name="account_bg_color">#2c8baf</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent">#99333333</color>
+
+    <!-- commom text color-->
+    <color name="commom_text_color1">#313233</color>
+    <!-- topic activity-->
+    <color name="topic_text_color">#313233</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="topic_comment_list_color1">#ffcd93</color>
+    <color name="topic_comment_list_color2">#9ae1fa</color>
+    <color name="topic_comment_list_color3">#fe9797</color>
+    <color name="topic_comment_list_color4">#c6ea93</color>
+    <color name="topic_comment_list_color5">#e893d7</color>
+
+    <color name="choice_bg">#ffffff</color>
+
+    <!--statusbar color-->
+    <color name="colorPrimary">#ffb662</color>
+    <color name="colorAccent">#ffb662</color>
+    <color name="colorPrimaryDark">#ffb662</color>
+    <color name="consult_statusbar_color">#fff7ed</color>
+
+    <!-- communit_pk_sideview_color-->
+    <color name="side_view_path">#aaaaaa</color>
+    <color name="college_title_text_color">#313233</color>
+    <color name="college_go_class_color">#ffb662</color>
+    <color name="college_go_do_homework_color">#ffb662</color>
+    <color name="college_has_learning_color">#8a8a8a</color>
+    <!-- 主色调-->
+    <color name="essential_color">#ffad4c</color>
+    <color name="assist_color_white">#ffffff</color>
+    <color name="assist_color_grey">#f0f0f0</color>
+    <color name="assist_color_black">#000000</color>
+    <color name="selector_color1">#000000</color>
+    <color name="selector_color2">#563215</color>
+    <color name="selector_color3">#8a4713</color>
+    <color name="selector_color4">#aeae9f</color>
+    <color name="selector_color5">#fd9bcb</color>
+    <color name="selector_color6">#fe2c8d</color>
+    <color name="selector_color7">#d102fd</color>
+    <color name="selector_color8">#754ca5</color>
+    <color name="selector_color9">#000180</color>
+    <color name="selector_color10">#68dcfc</color>
+    <color name="selector_color11">#0bf1c6</color>
+    <color name="selector_color12">#019832</color>
+    <color name="selector_color13">#75d900</color>
+    <color name="selector_color14">#fef300</color>
+    <color name="selector_color15">#fdf790</color>
+    <color name="selector_color16">#fe9a33</color>
+    <color name="selector_color17">#f06620</color>
+    <color name="selector_color18">#fe0100</color>
+</resources>

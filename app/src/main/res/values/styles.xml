@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="PopWindowStyle">
+        <item name="android:windowEnterAnimation">@anim/pop_input</item>
+        <item name="android:windowExitAnimation">@anim/pop_out</item>
+    </style>
+
+    <style name="Widget.SeekBar.Normal" parent="@android:style/Widget.SeekBar">
+        <item name="android:maxHeight">2.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">
+            @android:drawable/progress_indeterminate_horizontal
+        </item>
+        <item name="android:progressDrawable">@drawable/seekbar_horizontal</item>
+        <item name="android:minHeight">2.0dip</item>
+        <item name="android:thumb">@mipmap/painting_slider</item>
+        <item name="android:thumbOffset">4.0dip</item>
+    </style>
+
+    <style name="Widget.SeekBar.PenSize" parent="@android:style/Widget.SeekBar">
+        <item name="android:maxHeight">5.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">
+            @android:drawable/progress_indeterminate_horizontal
+        </item>
+        <item name="android:progressDrawable">@drawable/seekbar_pen_horizontal</item>
+        <item name="android:minHeight">5.0dip</item>
+        <item name="android:thumb">@mipmap/painting_slider</item>
+        <item name="android:thumbOffset">8.0dip</item>
+    </style>
+</resources>
