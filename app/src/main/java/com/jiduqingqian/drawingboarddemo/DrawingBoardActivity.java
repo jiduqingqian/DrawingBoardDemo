@@ -2,6 +2,7 @@ package com.jiduqingqian.drawingboarddemo;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
@@ -93,7 +94,7 @@ public class DrawingBoardActivity extends FragmentActivity implements View.OnCli
                 }
             });
         } else {
-            borderView.setCutoutImage(null);
+            borderView.setCutoutImage(BitmapFactory.decodeResource(getResources(), R.mipmap.beautifalgirl));
         }
     }
 
